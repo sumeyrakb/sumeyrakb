@@ -1,5 +1,5 @@
- # Hi there, 👋 I’m [Sumeyra](https://github.com/sumeyrakb)
- ## **Software Developer**
+                      # Hi there, 👋 I’m [Sumeyra](https://github.com/sumeyrakb)
+                            ## **Software Developer**
  ## About Me
  🤖 I'm currently learning software  
  🌱 I'm a person who can find practical solutions to the problems encountered, is passionate with the desire to learn and loves teamwork.
