@@ -1,4 +1,5 @@
- # **👋 Hi, I’m [Sumeyra](https://github.com/sumeyrakb)  I'm a Software Developer**
+ # ** Hi 👋 I’m [Sumeyra](https://github.com/sumeyrakb) **
+ ## **Software Developer**
  ## About Me
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
