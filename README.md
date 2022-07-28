@@ -1,5 +1,5 @@
 ### Hi there, 👋 I’m [Sumeyra](https://github.com/sumeyrakb) 
- ## I'm a Software Developer
+ 
  
  ## 👉🏻 About Me
  - I'm a Software Developer and Interior Designer, Uı/Ux Designer
