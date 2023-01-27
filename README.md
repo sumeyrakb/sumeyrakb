@@ -2,7 +2,7 @@
  
  
  ## 👉🏻 About Me
- - I'm a Software Developer and Interior Designer, Uı/Ux Designer
+ - I'm a Interior Designer, Uı/Ux Designer
  - I'm currently learning Software, because because my dream become a successful Software Developer, I love Software 
  - I'm a person who can find practical solutions to the problems encountered, is passionate with the desire to learn and loves teamwork.
  
